@@ -17,6 +17,6 @@ This project is licensed under the Apache License 2.0 – see the [LICENSE](LICE
 
 ## Connect with Me
 
-Feel free to reach out if you have any questions, suggestions, or would like to collaborate! You can find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [Twitter](https://twitter.com/your-twitter-handle).
+Feel free to reach out if you have any questions, suggestions, or would like to collaborate! You can find me on [LinkedIn](https://www.linkedin.com/in/ragibhasan2) or [Twitter](https://twitter.com/_ragibhasan).
 
 Let's build a smarter future together!
